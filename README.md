@@ -1,7 +1,7 @@
 # django_ml_api
 
 Upload file:
-![](screenshots/upload file.png)
+![](screenshots/upload file.PNG)
 
 It automatically creates a Dataset model with json as data:
 ![](screenshots/created dataset.png)
