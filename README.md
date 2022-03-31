@@ -10,7 +10,7 @@ Create model using settings:
 ![](create_model.PNG)
 
 Responce with scores:
-![](create_model_response.PMG)
+![](create_model_response.PNG)
 
 Saved model:
 ![](model.PNG)
